@@ -1,0 +1,713 @@
+{
+  "code": 200,
+  "data": {
+    "categories": [
+      {
+        "name": "热门分类",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/urgs9vy8a.png-pw144",
+            "name": "智能设备"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/d4dhjw1we.png-pw144",
+            "name": "鲜花蛋糕"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/itxjlg4jh.png-pw144",
+            "name": "书 "
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/12vqbzrkq.png-pw144",
+            "name": "模型拼图"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/xdjtcaanm.png-pw144",
+            "name": "毛绒公仔"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/dsu66u5k2.png-pw144",
+            "name": "动漫/明星周边"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/v65bdnets.png-pw144",
+            "name": "创意礼品"
+          }
+        ]
+      },
+      {
+        "name": "个性配饰 ",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/80mkxagby.png-pw144",
+            "name": "手饰"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/vprcl0vym.png-pw144",
+            "name": "手表"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/w0h2yoa72.png-pw144",
+            "name": "帽子"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/9k7a3umu1.png-pw144",
+            "name": "镜框"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/u7txf6xvn.png-pw144",
+            "name": "发饰"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/u8pq01q9t.png-pw144",
+            "name": "耳饰"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/0b8w4xhis.png-pw144",
+            "name": "手套"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/ijgrwvrn5.png-pw144",
+            "name": "围巾/口罩"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/mkhkh14j8.png-pw144",
+            "name": "项链"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/0yw7qk140.png-pw144",
+            "name": "领结/领带/腰带"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/0m85d9pts.png-pw144",
+            "name": "袜子"
+          }
+        ]
+      },
+      {
+        "name": "温暖家居",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/bj9ch14r1.png-pw144",
+            "name": "抱枕/靠垫/坐垫"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/kijh56ebm.png-pw144",
+            "name": "装饰画"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/78a2812io.png-pw144",
+            "name": "钟表摆件"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/hjyqt8u8j.png-pw144",
+            "name": "香薰用品"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/9mdsiq7sa.png-pw144",
+            "name": "收纳整理"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/rjxihwrxq.png-pw144",
+            "name": "生活神器"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/1mlvwwz03.png-pw144",
+            "name": "生活家电"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/scggy105e.png-pw144",
+            "name": "伞"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/56t6d6ca8.png-pw144",
+            "name": "家居纺饰"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/7l6ljnnbq.png-pw144",
+            "name": "宠物用品"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/az2zg2gxm.png-pw144",
+            "name": "手帕/毛巾"
+          }
+        ]
+      },
+      {
+        "name": "美味厨房",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/2ep8pn54p.png-pw144",
+            "name": "保温杯/便当盒"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/9twbl537b.png-pw144",
+            "name": "杯子"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/zdve42knm.png-pw144",
+            "name": "餐具"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/o0rddf4if.png-pw144",
+            "name": "吃货神器"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/x8qnoc2js.png-pw144",
+            "name": "厨具"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/wp808rzwm.png-pw144",
+            "name": "烘焙道具"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/vog9lruq6.png-pw144",
+            "name": "酒具/茶具"
+          }
+        ]
+      },
+      {
+        "name": "美味礼物",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/1ivpiljyw.png-pw144",
+            "name": "茶"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/ujwwahqmf.png-pw144",
+            "name": "速食/即食小零嘴"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/dzrf65l0u.png-pw144",
+            "name": "健康代餐"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/6jcr63wt9.png-pw144",
+            "name": "糖果糕点"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/ouiup1wr8.png-pw144",
+            "name": "曲奇饼干"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/ct3oe3mcs.png-pw144",
+            "name": "巧克力"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/y3x76old0.png-pw144",
+            "name": "膨化食品"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/0uw6m16bf.png-pw144",
+            "name": "咖啡/冲饮"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/f3id397qy.png-pw144",
+            "name": "酒"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/s80qg0agp.png-pw144",
+            "name": "坚果"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/asuck0uit.png-pw144",
+            "name": "果干/果酱"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/i9y1n8vo9.png-pw144",
+            "name": "饮料/冷饮/雪糕"
+          }
+        ]
+      },
+      {
+        "name": "数码小物",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/ptgedps6p.png-pw144",
+            "name": "电脑周边"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/v3i1dg38w.png-pw144",
+            "name": "耳机/音响"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/dhsjxciof.png-pw144",
+            "name": "摄影周边"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/zkpa4vgxn.png-pw144",
+            "name": "手机壳"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/trpwpogjx.png-pw144",
+            "name": "手机周边"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/vh71v3pt2.png-pw144",
+            "name": "移动电源"
+          }
+        ]
+      },
+      {
+        "name": "创意文具",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/xxj9mc56l.png-pw144",
+            "name": "办公收纳"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/kjimkl1a6.png-pw144",
+            "name": "本子/本子周边"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/sepkbig9t.png-pw144",
+            "name": "笔/笔袋/笔周边"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/bdvheomms.png-pw144",
+            "name": "贺卡/明信片/印章"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/acqz3hex7.png-pw144",
+            "name": "卡包/卡套/钥匙包"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/8bumqnb7i.png-pw144",
+            "name": "手账相关"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/6jjkn23rz.png-pw144",
+            "name": "台历/日历"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/rrv9lv9os.png-pw144",
+            "name": "相框/相册"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/8871axj54.png-pw144",
+            "name": "书签"
+          }
+        ]
+      },
+      {
+        "name": "美容护肤",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/44tdn77p4.png-pw144",
+            "name": "女士香水"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/i158z5269.png-pw144",
+            "name": "唇部护理"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/dtekdo2dt.png-pw144",
+            "name": "手部护理"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/mj0q3nwln.png-pw144",
+            "name": "身体护理"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/2kk3wmbyk.png-pw144",
+            "name": "头发护理"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/94nxv41fa.png-pw144",
+            "name": "护肤套装"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/h9sk40oia.png-pw144",
+            "name": "男士护肤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/j1xbva318.png-pw144",
+            "name": "剃须刀"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/lc444bcha.png-pw144",
+            "name": "手工皂"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/bx3bl18wm.png-pw144",
+            "name": "眼部护理"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/jq6zajwvy.png-pw144",
+            "name": "防晒/晒后修复"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/c5ybjltxc.png-pw144",
+            "name": "男士香水"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/gigpur622.png-pw144",
+            "name": "卸妆"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/mwblar564.png-pw144",
+            "name": "洁面"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/g0mes7en6.png-pw144",
+            "name": "爽肤水"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/3twtwf7a5.png-pw144",
+            "name": "乳液/面霜"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/np4eyslm9.png-pw144",
+            "name": "精华"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/wuwgxd89e.png-pw144",
+            "name": "喷雾"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/htl7msds7.png-pw144",
+            "name": "面膜"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/jqn1bzyhc.png-pw144",
+            "name": "鼻部清洁"
+          }
+        ]
+      },
+      {
+        "name": "精致彩妆",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/4q7omzsaj.png-pw144",
+            "name": "底妆"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/gc3d24sx9.png-pw144",
+            "name": "腮红"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/kti126se9.png-pw144",
+            "name": "高光"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/x10ftruft.png-pw144",
+            "name": "眼妆"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/6akinbxu7.png-pw144",
+            "name": "唇彩/口红"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/r8ck3dd11.png-pw144",
+            "name": "美甲"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/qzd06srrt.png-pw144",
+            "name": "美妆工具"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/cjx5ewf8a.png-pw144",
+            "name": "彩妆套装"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/mhe65vdr3.png-pw144",
+            "name": "假发"
+          }
+        ]
+      },
+      {
+        "name": "运动户外",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/3s68njf01.png-pw144",
+            "name": "户外装备"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/hghom1qk6.png-pw144",
+            "name": "运动健身"
+          }
+        ]
+      },
+      {
+        "name": "身体保健",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/ut6y3bdkt.png-pw144",
+            "name": "保健品"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/q46rgdaym.png-pw144",
+            "name": "口腔护理"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/2n0q354tn.png-pw144",
+            "name": "眼部保健"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/bxlv87kfx.png-pw144",
+            "name": "女性护理"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/46at9bfe6.png-pw144",
+            "name": "情趣用品"
+          }
+        ]
+      },
+      {
+        "name": "女装",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/w01wjnzql.png-pw144",
+            "name": "短袖T恤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/zjga336ec.png-pw144",
+            "name": "冬季外套"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/dtnge8hys.png-pw144",
+            "name": "无袖背心"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/uzysk736w.png-pw144",
+            "name": "情侣装"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/9tcujdarw.png-pw144",
+            "name": "泳衣"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/bm41n1t1l.png-pw144",
+            "name": "内衣"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/g691hmqtc.png-pw144",
+            "name": "家居服"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/mgnodc6a5.png-pw144",
+            "name": "长裤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/wyu0cvzex.png-pw144",
+            "name": "短裤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/354h7hf5p.png-pw144",
+            "name": "套装"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/vxjnaamvy.png-pw144",
+            "name": "半身裙"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/cl6rptpqm.png-pw144",
+            "name": "连衣裙"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/dwt0l66tx.png-pw144",
+            "name": "运动套装"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/r0h9ei9i0.png-pw144",
+            "name": "春夏 外套/开衫"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/b27mks7o6.png-pw144",
+            "name": "卫衣"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/c5df083ti.png-pw144",
+            "name": "长袖T恤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/w8snm75vo.png-pw144",
+            "name": "衬衫"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/q02613jgo.png-pw144",
+            "name": "雪纺衫"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/n0a3hbx2i.png-pw144",
+            "name": "毛衣"
+          }
+        ]
+      },
+      {
+        "name": "箱包",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/gvfq4j1mm.png-pw144",
+            "name": "单肩包"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/79v2pdq56.png-pw144",
+            "name": "化妆包"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/0vm6j2bzc.png-pw144",
+            "name": "女士钱包"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/g3n1v3lor.png-pw144",
+            "name": "手拿包"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/u4r94trxx.png-pw144",
+            "name": "手提包"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/n359evuhg.png-pw144",
+            "name": "双肩包"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/lqbfw3b05.png-pw144",
+            "name": "行李箱"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/cygdl9yim.png-pw144",
+            "name": "男士钱包"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/uv8fbv07r.png-pw144",
+            "name": "帆布包/帆布袋"
+          }
+        ]
+      },
+      {
+        "name": "女鞋",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/jyt4i7jji.png-pw144",
+            "name": "平底单鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/w3juz5k0g.png-pw144",
+            "name": "高跟鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/6atqyxbmy.png-pw144",
+            "name": "凉鞋/凉拖"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/o8poapf24.png-pw144",
+            "name": "休闲鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/0djl99ez3.png-pw144",
+            "name": "运动鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/30shonv0s.png-pw144",
+            "name": "家居鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/7wyqicpy7.png-pw144",
+            "name": "帆布鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/l5kul4mub.png-pw144",
+            "name": "雨鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/qal3rme0u.png-pw144",
+            "name": "短靴"
+          }
+        ]
+      },
+      {
+        "name": "男装",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/r5zplg7f9.png-pw144",
+            "name": "男士衬衫"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/2uqjktxfd.png-pw144",
+            "name": "男士短袖T恤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/9s4j8lhxm.png-pw144",
+            "name": "男士T恤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/lo59qrrq9.png-pw144",
+            "name": "男士短裤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/mlimuvr92.png-pw144",
+            "name": "男士长裤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/xdgdi7rhk.png-pw144",
+            "name": "男士外套"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/4zohcyeqm.png-pw144",
+            "name": "男士卫衣"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/1b9z1s4b2.png-pw144",
+            "name": "男士内衣/内裤"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/v6yotd8w3.png-pw144",
+            "name": "男士毛衣"
+          }
+        ]
+      },
+      {
+        "name": "男鞋",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/8j7by3pvh.png-pw144",
+            "name": "皮鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/kbplcvs2w.png-pw144",
+            "name": "男士休闲鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/5p66polm2.png-pw144",
+            "name": "男士运动鞋"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/2bmwjcyg4.png-pw144",
+            "name": "男士帆布鞋"
+          }
+        ]
+      },
+      {
+        "name": "母婴",
+        "subcategories": [
+          {
+            "icon_url": "http://192.168.31.195/image/aec8nigkk.png-pw144",
+            "name": "宝宝食品"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/cw21m8c10.png-pw144",
+            "name": "宝宝衣物"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/jnhot47ib.png-pw144",
+            "name": "宝宝用品"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/e0orqx1zs.png-pw144",
+            "name": "儿童玩具"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/mrvjapo2k.png-pw144",
+            "name": "孕妇用品"
+          },
+          {
+            "icon_url": "http://192.168.31.195/image/d5qa0hrfi.png-pw144",
+            "name": "早教益智"
+          }
+        ]
+      }
+    ]
+  },
+  "message": "OK"
+}
